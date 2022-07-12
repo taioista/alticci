@@ -28,6 +28,7 @@ Alongside the api REST you'll encounter a simple front-end that can be used to t
 
 * For Angular (Go to /alticci-front):
 ```shell
+npm install
 ng serve
 ```
 
